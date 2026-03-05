@@ -131,17 +131,6 @@ export const journals: Journal[] = [
       sections: [],
       conclusion: '<p>Pendidikan literasi media harus berfokus pada verifikasi sumber dan pemahaman algoritma, bukan sekadar penggunaan perangkat digital.</p>'
     }
-  },
-  {
-    id: '6',
-    slug: 'etika-ai-redaksi',
-    title: 'Kecerdasan Buatan di Ruang Redaksi: Tinjauan Etis dan Prosedural',
-    authors: ['Kevin Pramudya'],
-    year: 2024,
-    date_published: '2024-03-15T00:00:00Z',
-    category: Category.JURNAL,
-    abstract: 'Mengeksplorasi batas-batas penggunaan generative AI dalam penulisan berita otomatis tanpa mengorbankan integritas jurnalisme dan nilai kemanusiaan.',
-    cover_image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=400',
   }
 ];
 
